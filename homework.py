@@ -19,6 +19,7 @@ else:
         print(n)
         n = n + 1
 
+
 # Python program to iterate over characters of a string
 
 # Code #1
